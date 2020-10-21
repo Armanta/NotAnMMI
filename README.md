@@ -21,4 +21,4 @@ Coming soon...
 
 Join our server
 ===============
-[![Join our server](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/S8WHb5nC)
+[![Join our server](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/S8WHb5n)
